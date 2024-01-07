@@ -2,7 +2,7 @@
 
 # RSNA-MICCAI-brain-tumor-radiogenomic-classification 🧠
 
-*this was part of a Kaggle competition held by Radiological Society of North America which can be found <a href="https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification">Here</a>*
+*this was part of a 2021 Kaggle competition held by Radiological Society of North America which can be found <a href="https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification">Here</a>*
 __________________________________________________________________________
 
 ## Project Abstract
@@ -61,6 +61,15 @@ different strategies, different architectures and more diverse datasets.
 
 </div>
 
+
+## <a href="www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/overview/acknowledgments">Acknowledgments</a>
+
+```
+The dataset for this challenge has been collected from institutions around the world as part of a decade-long project to advance the use of AI in brain tumor diagnosis and treatment, the Brain Tumor Segmentation (BraTS) challenge. Running in parallel with this challenge, a challenge addressing segmentation represents the culmination of this effort.
+
+A comprehensive description of the both tasks of the RSNA-MICCAI Brain Tumor challenge can be found at: https://www.med.upenn.edu/cbica/brats2021/
+Participants interested in the segmentation task of this competition can find more info at: https://www.synapse.org/brats2021
+```
 
 
 <p align="right"><a href="#top">Back to top</a></p>
