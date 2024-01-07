@@ -62,7 +62,7 @@ different strategies, different architectures and more diverse datasets.
 </div>
 
 
-## <a href="www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/overview/acknowledgments">Acknowledgments</a>
+## Acknowledgments
 
 ```
 The dataset for this challenge has been collected from institutions around the world as part of a decade-long project to advance the use of AI in brain tumor diagnosis and treatment, the Brain Tumor Segmentation (BraTS) challenge. Running in parallel with this challenge, a challenge addressing segmentation represents the culmination of this effort.
